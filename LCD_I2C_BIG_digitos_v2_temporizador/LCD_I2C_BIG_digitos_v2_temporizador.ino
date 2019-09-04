@@ -20,14 +20,13 @@
 #define __LCD_VERSION__ "BIG DIGITS v2.0"
 
 /*
-  
+
  ===== NOTAS DE LA VERSION =====
  
-  1.- BIG DIGITS LCD 16x2  v2.0.
+  1.- BIG DIGITS LCD 16x2  v1.0. Solo las funciones para la representacion de digitos grandes.
   
-  2.- Añadido parpadeo de los puntos del segundero
-      e implementado como un ejemplo de uso de la funcion para representar 
-      digitos grandes en el LCD 16x2
+  2.- Implementado como un ejemplo de uso de la funcion para representar 
+      digitos grandes en el LCD 16x2 y añadido parpadeo de los puntos del segundero.
       No contabiliza tiempo real. Se basa en un contador apoyado en la funcion millis()
 
     
